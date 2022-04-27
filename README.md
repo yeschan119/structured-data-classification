@@ -1,6 +1,4 @@
-# structured-data-classification
-제품 분류 프로젝트
-
+# 제품/상품 분류 모델링 프로젝트
 ## project 설명
   + 제품 데이터(train data)를 입력받아 해당 데이터의 속성(attribute)을 기준으로 분류
   + 분류되는 데이터를 이용하여 Decision 트리 형성
