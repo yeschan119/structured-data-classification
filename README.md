@@ -15,5 +15,6 @@
   + python Tree.py dt_train1.txt dt_test1.txt
 ## 입력 데이터 형식
 <img width="681" alt="_2021-05-16__1 52 58" src="https://user-images.githubusercontent.com/83147205/165558910-464fcec0-278c-4112-8d67-98e1769fc31e.png">
+
 ## 분류 결과 캡쳐
 <img width="789" alt="_2021-05-16__1 54 36" src="https://user-images.githubusercontent.com/83147205/165559029-0da76f71-abfe-4074-8ed9-ae1c68bf65fd.png">
